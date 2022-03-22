@@ -1,8 +1,0 @@
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\bin\Debug\CreditCard.exe.config
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\bin\Debug\CreditCard.exe
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\bin\Debug\CreditCard.pdb
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\obj\Debug\CreditCard.Form1.resources
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\obj\Debug\CreditCard.Properties.Resources.resources
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\obj\Debug\CreditCard.csproj.GenerateResource.Cache
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\obj\Debug\CreditCard.exe
-C:\Users\MFEC\Desktop\CreditCard\CreditCard\obj\Debug\CreditCard.pdb
